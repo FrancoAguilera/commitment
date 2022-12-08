@@ -1,6 +1,6 @@
 {
   "name": "commitment",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A random commit messages generator",
   "main": "bin/index.js",
   "bin": {
@@ -17,8 +17,7 @@
     "commit message",
     "message",
     "commit",
-    "git",
-    "whatacommit"
+    "git"
   ],
   "author": "Franco Aguilera",
   "license": "ISC",
