@@ -1,0 +1,28 @@
+{
+  "name": "commitment",
+  "version": "1.0.0",
+  "description": "A random commit messages generator",
+  "main": "bin/index.js",
+  "bin": {
+    "commitment": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancoAguilera/commitment.git"
+  },
+  "keywords": [],
+  "author": "Franco Aguilera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrancoAguilera/commitment/issues"
+  },
+  "homepage": "https://github.com/FrancoAguilera/commitment#readme",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "commander": "^9.4.1",
+    "conf": "^10.2.0"
+  }
+}
